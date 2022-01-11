@@ -1,6 +1,7 @@
 # Vaja3-ADC-trigger-timer-conversion-STM32F0
 
 Vprašanja:
+
 Na zaslonu se vam mora usterzno pobarvati izbrani pin v zeleno barvo. Kaj se izpiše poleg pina? Pin PC0, zraven se izpiše ADC_IN10
 Aktiviramo zeleno LED diodo na izhodu PD12
 V Clock Configuration spremenimo APB1 Timer clock (MHz) na 16 MHz. Kaj opazimo? Ta frekvenca se spremeni in prilagodi še nekatere 
